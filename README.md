@@ -1,2 +1,9 @@
 # BlackJack-WebAddOn
-Web add on using only js
+BlackJack game as web add on
+
+Technologies:
+- JS only
+- CSS
+
+Trying to make simple web game using JS only.
+Conclusion: Use React.js :)
